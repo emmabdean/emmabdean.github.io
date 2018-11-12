@@ -8,7 +8,7 @@ author_profile: true
 
 
 <H3>Working Papers and Works in Progress</H3>
-<b>Stephen D. Schwab</b>  “<a href="https://stschwab.github.io/images/COC_Working_24MAY0924.pdf">You Had Me at Hello: The Effects of Disruptions to the Patient-Physician Relationship</a>,” Working Paper, May 2018. 
+<b>Emma B. Dean</b>  “<a href="https://emmabdean.github.io/images/Dean_IndiaPharmaControls.pdf">Who Benefits from Pharmaceutical Price Controls? Evidence from India</a>,” Working Paper, July 2018. 
 <br><br>
 
 
