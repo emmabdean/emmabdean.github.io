@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 
-<H3>Working Papers and Works in Progress</H3>
+<H3>Working Papers and Work in Progress</H3>
 <b>Emma B. Dean</b>  “<a href="https://emmabdean.github.io/images/Dean_IndiaPharmaControls.pdf">Who Benefits from Pharmaceutical Price Controls? Evidence from India</a>,” Working Paper, July 2018. 
 <br><br>
 
