@@ -14,4 +14,6 @@ author_profile: true
 
 
 <H3>Publications</H3>
-Kevin D. Broom, Jason S. Turner, <b>Stephen D. Schwab</b>, and Michael P. Pesely. “<a href="http://healthfinancejournal.com/~junland/index.php/johcf/article/view/40">Does Quality Matter? A Study of Stock Price Reactions and the Implications for Healthcare Organizations</a>,” Journal of Health Care Finance, Vol 42, Issue 2: 2015.
+Grossman, G., Pierskalla, J. and <b>Dean, E.B.</b> “<a href="https://www.nber.org/chapters/c13830.pdf">Government Fragmentation and Public Goods Provision</a>.” Journal of Politics, 2017, 79 (3), pp. 823-840.
+
+<b>Dean, E.B.</b>, Schilbach, F. and Schofield, H. “<a href="https://www.journals.uchicago.edu/doi/10.1086/690305">Poverty and Cognitive Function</a/>." Chapter in forthcoming NBER book \The Economics of Asset Accumulation and Poverty Traps," Barrett, C.B., Carter, M. and Chavas, J.P. eds.
