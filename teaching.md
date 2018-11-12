@@ -8,9 +8,6 @@ author_profile: true
 
 
 <H3>Fall, 2018</H3>
-<b>Health Care Finance II: Financial Management of Health Care Organizations</b> This class is designed as an introductory course in the theory and principles of health care finance, which includes planning and controlling functions (time value of money, pro forma budgeting, ratio analysis), balance sheet management (working capital budgeting, debt & equity financing) and cost management (cost classification allocation, break even & variance analysis) among other topics. This is an applied course that combines theoretical (textbook) concepts with problems and computer exercises. Field professionals may be invited to augment discussion around current critical issues in health care finance.
+<b>Population Health</b> Population health is emerging as a field of study of health determinants, a concept of health, and a goal of achieving measurable improvements in the health of a defined population. These populations can encompass geographic regions, such as communities, states, or nations, but can also be groups, including groups based on need, employment, ethnicity, members of Accountable Care Organizations, and other populations with relevance to policymakers. In this course, students will gain an understanding of the determinants of population health, population health outcomes, and policies and interventions that link the determinants and outcomes. 
 
 
-
-<H3>Winter, 2018</H3>
-<b>Health Care Finance III: Financial Applications</b>  This class is designed to teach healthcare leaders their role in operating, managing and directing the apportionment of resources within a health care organization. The course provides in-depth knowledge of the business case analysis approach to decision-making and builds on sound financial practices learned in HCA 5350 & HCA 5353. With an emphasis on executive-level critical thinking skills, it allows students to integrate and apply previously learned tools and abilities to the healthcare setting.
