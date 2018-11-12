@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Steve Schwab is a Major in the United States Army and is part of the faculty of the joint [ Army - Baylor University Graduate Program in Health and Business Administration](https://www.baylor.edu/graduate/mha/). He joins Army-Baylor in 2018 from the Wharton School at The University of Pennsylvania where he received his PhD in Managerial Science and Applied Economics with a focus in health care. His research interests are in coordination and organizational structure, and the ways in which these affect productivity and innovation. His current research examines various determinants of successful teams and the effects of disruptions to teams. He was previously an Associate Fellow at the Leonard Davis Institute for Health Economics. 
- 
+Emma Boswell Dean is an Assistant Professor in the Department of Health Policy and Management at[ Miami Business School at the University of Miami](https://www.bus.miami.edu/). She is a health economist whose current research focuses on the pharmaceutical industry, global health, and access to medical care. She holds a Ph.D. and M.S. in Managerial Sciences and Applied Economics from the Wharton School at the University of Pennsylvania and a B.S. from Cornell University in Biometry and Statistics. Prior to academia, she worked as a management consultant with a focus on the pharmaceutical industry. 
 
- 
-Prior to Wharton, Steve served as the Chief Financial Officer for the [Walter Reed Army Institute of Research](http://www.wrair.army.mil/) the Department of Defense's largest biomedical research laboratory. He has served in the Army Medical Service Corps since 2002 including three tours of duty in Iraq, twice earning the Bronze Star Medal. He previously received his MBA and MHA through the Army-Baylor program and his BA in political science from the George Washington University. 
 
 
