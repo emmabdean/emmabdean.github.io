@@ -17,4 +17,4 @@ author_profile: true
 Grossman, G., Pierskalla, J. and <b>Dean, E.B.</b> “<a href="https://www.journals.uchicago.edu/doi/10.1086/690305">Government Fragmentation and Public Goods Provision</a>.” Journal of Politics, 2017, 79 (3), pp. 823-840.
 
 
-<b>Dean, E.B.</b>, Schilbach, F. and Schofield, H. “<a href="https://www.nber.org/chapters/c13830.pdf">Poverty and Cognitive Function</a>." Chapter in forthcoming NBER book \The Economics of Asset Accumulation and Poverty Traps," Barrett, C.B., Carter, M. and Chavas, J.P. eds.
+<b>Dean, E.B.</b>, Schilbach, F. and Schofield, H. “<a href="https://www.nber.org/chapters/c13830.pdf">Poverty and Cognitive Function</a>." Chapter in forthcoming NBER book "The Economics of Asset Accumulation and Poverty Traps," Barrett, C.B., Carter, M. and Chavas, J.P. eds.
