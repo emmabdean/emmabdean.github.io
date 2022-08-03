@@ -15,6 +15,12 @@ author_profile: true
 
 <H3>Publications</H3>
 
+Hossain, M., <b>Dean, E.B.</b>, and Kaliski, D. “<a href="https://journals.lww.com/lww-medicalcare/Fulltext/2022/07000/Using_Administrative_Data_to_Examine_Telemedicine.2.aspx">Using Administrative Data to Examine Telemedicine Usage Among Medicaid Beneficiaries During the Coronavirus Disease 2019 Pandemic</a>.” Medical Care, 2022, 60 (7), 488-495.
+
+<b>Dean, E.B.</b> and Bond, A. “<a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2784388">Changes in Medicare Part B Spending for Biologic Drugs After Biosimilar Entry Into the Market</a>.” JAMA Health Forum, 2021, 2 (9), e212634.
+
+Mortensen, K., <b>Dean, E.B.</b>, French, M. Wang, N. and Chen, J. “<a href="https://pubmed.ncbi.nlm.nih.gov/33935253/">Trends in Health Care Utilization and Expenditures in the United States Across 5 Decades: 1977-2017</a>.” Medical Care, 2021, 59 (8), 704-710.
+
 <b>Dean, E.B.</b>, Johnson, P. and Bond, A. “<a href="https://pubmed.ncbi.nlm.nih.gov/33502485/">Physician, Practice, and Patient Characteristics Associated with Biosimilar Use in Medicare Recipients</a>.” JAMA Open Network, 2021, 4 (1), e2034776.
     
 <b>Dean, E.B.</b>, French, M. and Mortensen, K. “<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1475-6773.13283">Food Insecurity, Health Care Utilization, and Health Care Expenditures</a>." Health Services Research, 2020, 55 (S2), pp.883-893.
