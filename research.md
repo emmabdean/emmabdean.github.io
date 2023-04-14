@@ -22,7 +22,7 @@ author_profile: true
  
 <b>“Algorithms, Disparities, and Opioids: Evidence from Florida's Use of NarxCare Scores”</b> (with Mallick Hossain and Daniel Kaliski)
 
-<b>“Spillovers of Vaccine Hesitancy”</b> (with Jianan Yang)
+<b>“Spillover Effects of Vaccine Hesitancy”</b> (with Jianan Yang)
 
 <br><br>
     
