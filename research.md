@@ -28,7 +28,7 @@ author_profile: true
     
 <H3>Publications on the Pharmaceutical Industry </H3>
 
-Bond, A.,  <b>Dean, E.B.</b>, and Desai, S. “<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2022.00812">The Role of Financial Incentives in Biosimilar Uptake in Medicare: Evidence from the 340B Program.</a>." Health Affairs, 2023, 42 (5), 632-641.
+Bond, A.,  <b>Dean, E.B.</b>, and Desai, S. “<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2022.00812">The Role of Financial Incentives in Biosimilar Uptake in Medicare: Evidence from the 340B Program</a>." Health Affairs, 2023, 42 (5), 632-641.
 
 <b>Dean, E.B.</b> and Bond, A. “<a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2784388">Changes in Medicare Part B Spending for Biologic Drugs After Biosimilar Entry Into the Market</a>.” JAMA Health Forum, 2021, 2 (9), e212634.
 
