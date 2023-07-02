@@ -11,7 +11,7 @@ author_profile: true
 
 <b>Dean, E.B.</b> , Pierre, R. Carter, S., and Bond, A. The Role of Supply Chain Intermediaries in Steering Hospital Product Choice: Group Purchasing Organizations and Biosimilars. <i>In Review.</i>
 
-<b>Dean, E.B. </b>  “<a href="https://github.com/emmabdean.github.io/blob/whobenefits.pdf">Who Benefits from Pharmaceutical Price Controls? Evidence from India</a>." <i>In Review.</i>
+<b>Dean, E.B. </b>  “<a href="https://emmabdean.github.io/images/whobenefits.pdf">Who Benefits from Pharmaceutical Price Controls? Evidence from India</a>." <i>In Review.</i>
 
 
 <b>“Bypassing Biosimilars: Commercial Formularies and Biosimilar Uptake in Medicare Part B”</b> (with Luca Maini and Josh Feng)
