@@ -13,7 +13,7 @@ author_profile: true
 
 <b>Dean, E.B. </b>  “<a href="https://emmabdean.github.io/images/whobenefits.pdf">Who Benefits from Pharmaceutical Price Controls? Evidence from India</a>." <i>In Review.</i>
 
-Dean, E.B., Feng, J. and Maini, L.  “<a href="https://emmabdean.github.io/images/DeanFengMaini_StockingUndertheInfluence.pdf">Stocking Under the Influence: Spillovers from Commercial Drug Coverage to Medicare Utilization</a>."
+<b>Dean, E.B.</b>, Feng, J. and Maini, L. “<a href="https://emmabdean.github.io/images/DeanFengMaini_StockingUndertheInfluence.pdf">Stocking Under the Influence: Spillovers from Commercial Drug Coverage to Medicare Utilization</a>."
     
 <b>“Institutional Innovation in the Global Landscape: The Case of the Priority Review Voucher”</b> (with Lucy Xiaolu Wang)
    
