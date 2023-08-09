@@ -21,7 +21,7 @@ author_profile: true
  
 <b>“Algorithms, Disparities, and Opioids: Evidence from Florida's Use of NarxCare Scores”</b> (with Mallick Hossain and Daniel Kaliski)
 
-<b>“Spillover Effects of Vaccine Hesitancy”</b> (with Jianan Yang)
+<b>“Clinical Controversy and Health Utilization: Evidence from the Dengvaxia Scandal in the Philippines”</b> (with Jianan Yang)
 
 <br><br>
     
