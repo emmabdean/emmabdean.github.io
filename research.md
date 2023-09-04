@@ -11,7 +11,7 @@ author_profile: true
 
 <b>Dean, E.B.</b>  “<a href="https://emmabdean.github.io/images/whobenefits.pdf">Who Benefits from Pharmaceutical Price Controls? Evidence from India</a>." <i>R&R at Journal of Public Economics.</i>
 
-<b>Dean, E.B.</b>, Feng, J. and Maini, L. “<a href="https://emmabdean.github.io/images/DeanFengMaini_StockingUndertheInfluence.pdf">Stocking Under the Influence: Spillovers from Commercial Drug Coverage to Medicare Utilization</a>." <i>In Review.</i>
+<b>Dean, E.B.</b>, Feng, J. and Maini, L. “<a href="https://emmabdean.github.io/images/StockingUnderInfluence_web_draft.pdf">Stocking Under the Influence: Spillovers from Commercial Drug Coverage to Medicare Utilization</a>." <i>In Review.</i>
 
 <b>Dean, E.B.</b> , Pierre, R. Carter, S., and Bond, A. The Role of Supply Chain Intermediaries in Steering Hospital Product Choice: Group Purchasing Organizations and Biosimilars. <i>In Review.</i>
     
