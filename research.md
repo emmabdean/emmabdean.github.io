@@ -19,7 +19,7 @@ author_profile: true
    
 <b>“To Pool or Not to Pool? National versus Global Incentives in Pooled Purchasing”</b> (with Evan Saltzman)
  
-<b>“Algorithms, Disparities, and Opioids: Evidence from Florida's Use of NarxCare Scores”</b> (with Mallick Hossain and Daniel Kaliski)
+<b>“Algorithms, Disparities, and Opioids: Evidence from the Use of NarxCare Scores”</b> (with Mallick Hossain and Daniel Kaliski)
 
 <b>“Clinical Controversy and Health Utilization: Evidence from the Dengvaxia Scandal in the Philippines”</b> (with Jianan Yang)
 
