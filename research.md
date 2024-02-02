@@ -9,9 +9,9 @@ author_profile: true
 
 <H3>Working Papers and Selected Work in Progress</H3>
 
-<b>Dean, E.B.</b>  “<a href="https://emmabdean.github.io/images/whobenefits.pdf">Who Benefits from Pharmaceutical Price Controls? Evidence from India</a>." <i>Revise & Resubmit at Journal of Public Economics.</i>
+<b>Dean, E.B.</b>  “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4509963">Who Benefits from Pharmaceutical Price Controls? Evidence from India</a>." <i>Revise & Resubmit at Journal of Public Economics.</i>
 
-<b>Dean, E.B.</b>, Feng, J. and Maini, L. “<a href="https://emmabdean.github.io/images/StockingUnderInfluence_web_draft.pdf">Stocking Under the Influence: Spillovers from Commercial Drug Coverage to Medicare Utilization</a>." <i>In Review.</i>
+<b>Dean, E.B.</b>, Feng, J. and Maini, L. “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578352">Stocking Under the Influence: Spillovers from Commercial Drug Coverage to Medicare Utilization</a>." <i>In Review.</i>
 
 <b>Dean, E.B.</b>, Hossain, M. and Kaliski, D. Does Algorithmic Risk Assessment Affect Physician Prescribing? Understanding Aggregate versus Micro-level Impacts <i>In Review.</i>
 
