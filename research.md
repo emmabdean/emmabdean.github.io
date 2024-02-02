@@ -13,7 +13,7 @@ author_profile: true
 
 <b>Dean, E.B.</b>, Feng, J. and Maini, L. “<a href="https://emmabdean.github.io/images/StockingUnderInfluence_web_draft.pdf">Stocking Under the Influence: Spillovers from Commercial Drug Coverage to Medicare Utilization</a>." <i>In Review.</i>
 
-<b>Dean, E.B.</b>, Hossain, M. and Kaliski, D. Does Algorithmic Risk Assessment Aect Physician Prescribing? Understanding Aggregate versus Micro-level Impacts <i>In Review.</i>
+<b>Dean, E.B.</b>, Hossain, M. and Kaliski, D. Does Algorithmic Risk Assessment Affect Physician Prescribing? Understanding Aggregate versus Micro-level Impacts <i>In Review.</i>
 
 <b>Dean, E.B.</b> , Pierre, R. Carter, S., and Bond, A. The Role of Supply Chain Intermediaries in Steering Hospital Product Choice: Group Purchasing Organizations and Biosimilars. <i>In Review.</i>
     
