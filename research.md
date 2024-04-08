@@ -15,7 +15,7 @@ author_profile: true
 
 <b>Dean, E.B.</b>, Hossain, M. and Kaliski, D. “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4728112">Does Algorithmic Risk Assessment Affect Physician Prescribing? Understanding Aggregate versus Micro-level Impacts</a>." <i>In Review.</i>
 
-<b>Dean, E.B.</b> , Pierre, R. Carter, S., and Bond, A. "The Role of Supply Chain Intermediaries in Steering Hospital Product Choice: Group Purchasing Organizations and Biosimilars." <i>In Review.</i>
+<b>Dean, E.B.</b> , Pierre, R. Carter, S., and Bond, A. "The Role of Supply Chain Intermediaries in Steering Hospital Product Choice: Group Purchasing Organizations and Biosimilars." <i>Revise & Resubmit.</i>
     
 <b>“Institutional Innovation in the Global Landscape: The Case of the Priority Review Voucher”</b> (with Lucy Xiaolu Wang)
    
