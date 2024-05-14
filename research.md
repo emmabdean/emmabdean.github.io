@@ -11,12 +11,10 @@ author_profile: true
 
 <b>Dean, E.B.</b>  “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4509963">Who Benefits from Pharmaceutical Price Controls? Evidence from India</a>." <i>Revise & Resubmit at Journal of Public Economics.</i>
 
-<b>Dean, E.B.</b>, Feng, J. and Maini, L. “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578352">Stocking Under the Influence: Spillovers from Commercial Drug Coverage to Medicare Utilization</a>."  <i>In Review.</i>
-
 <b>Dean, E.B.</b>, Hossain, M. and Kaliski, D. “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4728112">Does Algorithmic Risk Assessment Affect Physician Prescribing? Understanding Aggregate versus Micro-level Impacts</a>." <i>In Review.</i>
 
-<b>Dean, E.B.</b> , Pierre, R. Carter, S., and Bond, A. "The Role of Supply Chain Intermediaries in Steering Hospital Product Choice: Group Purchasing Organizations and Biosimilars." <i>Revise & Resubmit.</i>
-    
+<b>Dean, E.B.</b>, Feng, J. and Maini, L. “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578352">Stocking Under the Influence: Spillovers from Commercial Drug Coverage to Medicare Utilization</a>."  
+
 <b>“Institutional Innovation in the Global Landscape: The Case of the Priority Review Voucher”</b> (with Lucy Xiaolu Wang)
    
 <b>“To Pool or Not to Pool? National versus Global Incentives in Pooled Purchasing”</b> (with Evan Saltzman)
@@ -26,6 +24,8 @@ author_profile: true
 <br><br>
     
 <H3>Publications on the Pharmaceutical Industry </H3>
+
+<b>Dean, E.B.</b> , Pierre, R. Carter, S., and Bond, A. "The Role of Supply Chain Intermediaries in Steering Hospital Product Choice: Group Purchasing Organizations and Biosimilars." <i>Forthcoming at Health Affairs Scholar.</i>
 
 Bond, A.,  <b>Dean, E.B.</b>, and Desai, S. “<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2022.00812">The Role of Financial Incentives in Biosimilar Uptake in Medicare: Evidence from the 340B Program</a>." Health Affairs, 2023, 42 (5), 632-641.
 
