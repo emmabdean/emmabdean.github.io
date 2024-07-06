@@ -25,7 +25,7 @@ author_profile: true
     
 <H3>Publications on the Pharmaceutical Industry </H3>
 
-<b>Dean, E.B.</b> , Pierre, R. Carter, S., and Bond, A. "The Role of Supply Chain Intermediaries in Steering Hospital Product Choice: Group Purchasing Organizations and Biosimilars." <i>Forthcoming at Health Affairs Scholar.</i>
+<b>Dean, E.B.</b> , Pierre, R. Carter, S., and Bond, A. “<a href="https://academic.oup.com/healthaffairsscholar/article/2/6/qxae067/7674343">The Role of Supply Chain Intermediaries in Steering Hospital Product Choice: Group Purchasing Organizations and Biosimilars</a>." Health Affairs Scholar, 2024, 2 (6), qxae067.
 
 Bond, A.,  <b>Dean, E.B.</b>, and Desai, S. “<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2022.00812">The Role of Financial Incentives in Biosimilar Uptake in Medicare: Evidence from the 340B Program</a>." Health Affairs, 2023, 42 (5), 632-641.
 
