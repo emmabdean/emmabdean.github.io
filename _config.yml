@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Emma Boswell Dean, PhD"
 title_separator          : "-"
 name                     : &name "Emma Dean"
-description              : &description "Assistant Professor, Department of Health Management and Policy, Miami Business School, University of Miami"
+description              : &description "Assistant Professor, The Dartmouth Institute for Health Policy & Clinical Practice, Geisel School of Medicine at Dartmouth College"
 url                      : https://emmabdean.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "emmabdean.github.io"
@@ -75,11 +75,11 @@ analytics:
 author:
   name             : "Emma Dean"
   avatar           : "Dean_EB3.PNG"
-  bio              : "Assistant Professor, Department of Health Management and Policy, Miami Business School, University of Miami"
-  location         : "Miami, FL"
+  bio              : "Assistant Professor, The Dartmouth Institute for Health Policy & Clinical Practice, Geisel School of Medicine at Dartmouth College"
+  location         : "Lebanon, NH"
   employer         :
   googlescholar    : 
-  email            : "edean@bus.miami.edu"
+  email            : "emma.c.b.dean@dartmouth.edu"
   uri              :
   bitbucket        :
   codepen          :
