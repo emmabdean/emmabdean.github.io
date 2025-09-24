@@ -11,8 +11,6 @@ author_profile: true
 
 <b>Dean, E.B.</b>, Feng, J. and Maini, L. “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578352">Stocking Under the Influence: Spillovers from Commercial Drug Coverage to Medicare Utilization</a>." <i>Revise & Resubmit at American Economic Review.</i>
 
-<b>Dean, E.B.</b>  “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4509963">Who Benefits from Pharmaceutical Price Controls? Evidence from India</a>." <i>Accepted at Journal of Public Economics.</i>
-
 <b>Dean, E.B.</b>, Hossain, M. and Kaliski, D. “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4728112">Does Algorithmic Risk Assessment Affect Physician Prescribing? Understanding Aggregate versus Micro-level Impacts</a>." 
 
 <b>“Institutional Innovation in the Global Landscape: The Case of the Priority Review Voucher”</b> (with Lucy Xiaolu Wang)
@@ -24,6 +22,8 @@ author_profile: true
 <br><br>
     
 <H3>Publications on the Pharmaceutical Industry </H3>
+
+<b>Dean, E.B.</b> “<a href="https://www.sciencedirect.com/science/article/pii/S0047272725001768">Who Benefits from Pharmaceutical Price Controls? Evidence from India</a>." Journal of Public Economics, 2025, 250, 105478.
 
 <b>Dean, E.B.</b> , Pierre, R. Carter, S., and Bond, A. “<a href="https://academic.oup.com/healthaffairsscholar/article/2/6/qxae067/7674343">The Role of Supply Chain Intermediaries in Steering Hospital Product Choice: Group Purchasing Organizations and Biosimilars</a>." Health Affairs Scholar, 2024, 2 (6), qxae067.
 
