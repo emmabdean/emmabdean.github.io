@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-<b>PH 128:</b> Course information available <a href="https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-graduate/masters-of-health-science-education/master-of-public-health-and-ms-healthcare-research/master-of-public-health-and-ms-healthcare-research/ph-128">here</a>.
+<b>PH 128 Health Systems:</b> Course information available <a href="https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-graduate/masters-of-health-science-education/master-of-public-health-and-ms-healthcare-research/master-of-public-health-and-ms-healthcare-research/ph-128">here</a>.
 
 <i><strong>Previous Courses</strong></i>
 
