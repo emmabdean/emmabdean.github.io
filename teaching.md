@@ -10,7 +10,7 @@ author_profile: true
 
 <i><strong>Previous Courses</strong></i>
 
-<b>MDED 118 Fall Module:</b> Course information available <a href="https://geiselmed.dartmouth.edu/md-program/curriculum-overview/patients-and-populations/">here</a>.
+<b>MDED 118 Fall Module:</b> Course information available <a href="https://geiselmed.dartmouth.edu/md-program/curriculum-overview/population-health/">here</a>.
 
 <b>UMiami, HMP 310 and HMP 620: Population Health</b> 
 
