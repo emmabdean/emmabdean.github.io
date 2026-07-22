@@ -21,6 +21,8 @@ author_profile: true
     
 <H3>Publications on the Pharmaceutical Industry </H3>
 
+<b>Dean, E.B.</b>, Hossain, M. and Kaliski, D. “<a href="https://www.sciencedirect.com/science/article/pii/S0749379726001108">Florida's Opioid Prescribing Law Associated With Halt in Declining Opioid Fills Among New Users</a>." American Journal of Preventive Medicine, 2026, 71(3), 108367.
+
 <b>Dean, E.B.</b> “<a href="https://www.sciencedirect.com/science/article/pii/S0047272725001768">Who Benefits from Pharmaceutical Price Controls? Evidence from India</a>." Journal of Public Economics, 2025, 250, 105478.
 
 <b>Dean, E.B.</b> , Pierre, R. Carter, S., and Bond, A. “<a href="https://academic.oup.com/healthaffairsscholar/article/2/6/qxae067/7674343">The Role of Supply Chain Intermediaries in Steering Hospital Product Choice: Group Purchasing Organizations and Biosimilars</a>." Health Affairs Scholar, 2024, 2 (6), qxae067.
