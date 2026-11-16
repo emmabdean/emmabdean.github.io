@@ -23,7 +23,7 @@ author_profile: true
     
 <H3>Publications on the Pharmaceutical Industry </H3>
 
-Tseng, W., Bond, A. and <b>Dean, E.B.</b> “<a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2853531">Consolidation of Hospital Affiliations With Group Purchasing Organizations</a>." JAMA Health Forum, 2006, 7(9), e263151.
+Tseng, W., Bond, A. and <b>Dean, E.B.</b> “<a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2853531">Consolidation of Hospital Affiliations With Group Purchasing Organizations</a>." JAMA Health Forum, 2026, 7(9), e263151.
 
 <b>Dean, E.B.</b>, Hossain, M. and Kaliski, D. “<a href="https://www.sciencedirect.com/science/article/pii/S0749379726001108">Florida's Opioid Prescribing Law Associated With Halt in Declining Opioid Fills Among New Users</a>." American Journal of Preventive Medicine, 2026, 71(3), 108367.
 
