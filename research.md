@@ -11,6 +11,8 @@ author_profile: true
 
 <b>Dean, E.B.</b>, Feng, J. and Maini, L. “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578352">Stocking Under the Influence: Spillovers from Commercial Drug Coverage to Medicare Utilization</a>." <i>Revise & Resubmit at American Economic Review.</i>
 
+<b>Dean, E.B.</b> and Wang, L.X. "Institutional Innovation for Neglected Diseases: The Case of the Priority Review Voucher." <i>Revise & Resubmit at Research Policy.</i>
+
 <b>Dean, E.B.</b>, Hossain, M. and Kaliski, D. “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4728112">Does Algorithmic Risk Assessment Affect Physician Prescribing? Understanding Aggregate versus Micro-level Impacts</a>." 
    
 <b>“To Pool or Not to Pool? National versus Global Incentives in Pooled Purchasing”</b> (with Evan Saltzman)
