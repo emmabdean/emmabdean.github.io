@@ -9,7 +9,7 @@ author_profile: true
 
 <H3>Working Papers and Selected Work in Progress</H3>
 
-<b>Dean, E.B.</b>, Feng, J. and Maini, L. “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578352">Stocking Under the Influence: Spillovers from Commercial Drug Coverage to Medicare Utilization</a>." <i>Revise & Resubmit at American Economic Review.</i>
+<b>Dean, E.B.</b>, Feng, J. and Maini, L. “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578352">Stocking Under the Influence: Spillovers from Commercial Drug Coverage to Medicare Utilization</a>."
 
 <b>Dean, E.B.</b> and Wang, L.X. "Institutional Innovation for Neglected Diseases: The Case of the Priority Review Voucher." <i>Revise & Resubmit at Research Policy.</i>
 
