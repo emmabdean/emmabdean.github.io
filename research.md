@@ -13,11 +13,9 @@ author_profile: true
 
 <b>Dean, E.B.</b> and Wang, L.X. "Institutional Innovation for Neglected Diseases: The Case of the Priority Review Voucher." <i>Revise & Resubmit at Research Policy.</i>
 
-<b>Dean, E.B.</b>, Hossain, M. and Kaliski, D. “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4728112">Does Algorithmic Risk Assessment Affect Physician Prescribing? Understanding Aggregate versus Micro-level Impacts</a>." 
-   
-<b>“To Pool or Not to Pool? National versus Global Incentives in Pooled Purchasing”</b> (with Evan Saltzman)
+<b>Dean, E.B.</b> and Yang, J. "Political Alignment and Spillovers from a Vaccine Safety Controversy: Evidence from the Philippines."
 
-<b>“Clinical Controversy and Health Utilization: Evidence from the Dengvaxia Scandal in the Philippines”</b> (with Jianan Yang)
+<b>Dean, E.B.</b>, Hossain, M. and Kaliski, D. “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4728112">Does Algorithmic Risk Assessment Affect Physician Prescribing? Understanding Aggregate versus Micro-level Impacts</a>." 
 
 <br><br>
     
